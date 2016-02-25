@@ -1,0 +1,1 @@
+Novy soubor data2 vytvoren ve vetvi 'feature-data2'
